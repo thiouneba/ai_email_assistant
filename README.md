@@ -50,8 +50,7 @@ email-assistant/
 ├── data/
 ├── knowledge_base/
 │
-├── .env.example
-└── requirements.txt
+└── pyproject.toml
 ```
 
 ---
