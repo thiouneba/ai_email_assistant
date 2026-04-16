@@ -99,7 +99,7 @@ uvicorn app.main:app --reload
   "subtopic": "finance dashboard permissions",
   "confidence": 0.92,
   "assigned_team": "IT Support",
-  "assigned_expert": "Alex Martin",
+  "assigned_expert": "Bassirou T.",
   "reasons": ["Mentions access", "Mentions finance dashboard"],
   "requires_human_review": false
 }
