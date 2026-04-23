@@ -1,4 +1,4 @@
-# 📧 Email Assistant — Intelligent RAG Routing System
+#  Email Assistant — Intelligent RAG Routing System
 
 > A production-ready **email understanding and routing agent** built with **LangChain + Mistral AI + FAISS** that classifies, enriches, and assigns emails to the right team using structured reasoning and retrieval.
 
@@ -12,7 +12,7 @@
 
 ---
 
-## 🧠 What is this?
+##  What is this?
 
 I built this project as a real-world example of how **AI systems can automate business workflows**, specifically around one of the most common pain points: **email triage and routing**.
 
@@ -28,7 +28,7 @@ The system is designed to be **organization-agnostic** — plug in your own know
 
 ---
 
-## 🏗️ Architecture
+##  Architecture
 
 ```
 email-assistant/
@@ -55,20 +55,20 @@ email-assistant/
 
 ---
 
-## 🛠️ Capabilities
+##  Capabilities
 
 | Capability | Description |
 |------------|-------------|
-| 🧠 intent_classification | Detects request, complaint, escalation |
-| 🏷️ topic_extraction | Identifies topic and subtopic |
-| 📚 rag_retrieval | Fetches internal knowledge |
-| 🧭 routing_engine | Assigns team and expert |
-| 📊 confidence_scoring | Measures decision confidence |
-| ⚠️ human_fallback | Flags uncertain cases |
+|  intent_classification | Detects request, complaint, escalation |
+|  topic_extraction | Identifies topic and subtopic |
+|  rag_retrieval | Fetches internal knowledge |
+|  routing_engine | Assigns team and expert |
+|  confidence_scoring | Measures decision confidence |
+|  human_fallback | Flags uncertain cases |
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 ```bash
 pip install -e .
@@ -79,7 +79,7 @@ uvicorn app.main:app --reload
 
 ---
 
-## 🔌 API Example
+##  API Example
 
 ### Request
 
@@ -107,7 +107,7 @@ uvicorn app.main:app --reload
 
 ---
 
-## 🔄 Processing Flow
+##  Processing Flow
 
 1. Ingest email  
 2. Classify intent  
@@ -118,12 +118,12 @@ uvicorn app.main:app --reload
 
 ---
 
-## 👤 Author
+##  Author
 
 Bassirou — AI Engineer
 
 ---
 
-## 📄 License
+##  License
 
 MIT
