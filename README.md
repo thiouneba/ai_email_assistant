@@ -1,4 +1,4 @@
-#  Email Assistant — Intelligent RAG Routing System
+#  Email Assistant — Intelligent RAG Routing System 
 
 > A production-ready **email understanding and routing agent** built with **LangChain + Mistral AI + FAISS** that classifies, enriches, and assigns emails to the right team using structured reasoning and retrieval.
 
